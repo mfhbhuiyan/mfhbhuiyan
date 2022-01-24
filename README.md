@@ -1,9 +1,10 @@
-## Hi there 👋
+### Hi there 👋, I'm Foyshal Hossain
+#### Full Stack Developer
+![Full Stack Developer](https://www.facebook.com/photo/?fbid=2406604112815393&set=a.110360379106456)
 
-<!--
-**mfhbhuiyan/mfhbhuiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a problem solver who loves facing challenges in my work, I'm excited to be at the deployment phase of my career as a web developer. I'm passionate and ambitious about my work.
 
-Here are some ideas to get you started:
+Skills: REACT / JS / HTML / CSS/NODE JS
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
